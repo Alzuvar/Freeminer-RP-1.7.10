@@ -3,7 +3,7 @@ Those who know about the Freeminer pack, are the only ones who need to.
 
 Mod List:
 
-AdvancedCapes [Client-Side]
+```AdvancedCapes [Client-Side]
 Animation API
 Antique Atlas
 Apple Core
@@ -61,4 +61,4 @@ Vanilla Teleporters
 Vending Block
 WAILA [Client-Side]
 Witchery
-Xaero's Minimap [Client-Side]
+Xaero's Minimap [Client-Side]```
