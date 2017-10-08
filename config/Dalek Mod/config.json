@@ -2,7 +2,7 @@
   "DALEK_SPAWN_RATE": 10,
   "SKY_BOX_LEVELS": 32,
   "SHOW_SKY_BOX": true,
-  "CUSTOM_TITLE_SCREEN": false,
+  "CUSTOM_TITLE_SCREEN": true,
   "NITRO_9": true,
   "ACID_RAIN": true,
   "SONIC_BLASTER": true,
